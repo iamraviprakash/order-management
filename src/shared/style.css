@@ -1,0 +1,173 @@
+html,body {
+    height: 100%;
+}
+:root {
+    --color1: #EBF4F6;
+    --color2: #BDEAEE;
+    --color3: #76B4BD;
+    --color4: #58668B;
+    --color5: #5E5656;
+    --color6: #FFFFFF;
+  }
+
+.MuiFormControl-root {
+    border-radius: 5px;
+}
+
+
+.ListArea {
+    background-color: var(--color1);
+    border-radius: 5px;
+}
+
+
+.SearchField {
+    width: 70%;
+    background-color: var(--color2);
+}
+
+.SearchField .MuiInputBase-root {
+    height: 90px;
+    padding: 25px;
+}
+
+
+.SearchField .MuiInputBase-input {
+    font-size: 1.5rem !important;
+    font-weight: 400;
+}
+
+.SearchField .MuiSvgIcon-root {
+    width: 1.5em;
+    height: 1.5em;
+    fill: var(--color5)
+}
+
+.SearchField .MuiInput-underline:before {
+    border-bottom-width: 0px;
+}
+
+.Dialog {
+    min-width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*   
+.LeftSurface {
+    height: 100%;
+    background: var(--rich-black) !important;
+}
+
+.LogoText, .WelcomeText{
+    color: var(--vermilion);
+}
+
+.LeftSurface .MuiGrid-item{
+    padding: 40px;
+}
+
+.SearchField{
+    width: 90%;
+}
+
+.SearchField .MuiInputBase-root{
+    height: 125px;
+}
+
+.SearchField .MuiFormLabel-root{
+    font-size: 60px !important;
+}
+
+.SearchField .MuiInputBase-input{
+    font-size: 60px !important;
+}
+
+.SearchField .MuiInputLabel-shrink{
+    transform: translate(0, 1.5px) scale(.35) !important;
+}
+.LeftSurface .MuiInput-underline{
+    color: var(--white) !important;
+}
+
+
+.LeftSurface .MuiFormLabel-root{
+    color: var(--white) !important;
+    line-height: 2;
+}
+
+.LeftSurface .MuiInput-underline:before {
+    border-bottom: 2.5px solid var(--gunmetal) !important;
+}
+
+.LeftSurface .MuiInput-underline:after {
+    border-bottom: 2.5px solid var(--white) !important;
+}
+
+.IllustrationTitle, .WelcomeSubText, .DevDesLine{
+    color: var(--white);
+}
+
+.VermilionColor{
+    color: var(--vermilion);
+}
+
+.RightSurface {
+    height: 100%;
+}
+
+.BanksList{
+    height: 500px !important;
+    overflow: auto;
+}
+
+.BanksList::-webkit-scrollbar {
+    width: 10px;
+  }
+   */
+/* Track */
+/* .BanksList::-webkit-scrollbar-track {
+background: white; 
+} */
+
+/* Handle */
+/* .BanksList::-webkit-scrollbar-thumb {
+background: #888; 
+} */
+
+/* Handle on hover */
+/* .BanksList::-webkit-scrollbar-thumb:hover {
+background: #555; 
+} */

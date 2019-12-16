@@ -1,0 +1,1 @@
+export const baseUrl = "https://iamraviprakash.github.io/order-management/api/data.json";
