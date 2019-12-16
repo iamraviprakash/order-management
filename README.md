@@ -1,4 +1,4 @@
-## Groceries Orders Dashboard
+## Grocery Orders Dashboard
 
 ### Introduction
 This is single page application developed using React for listing and searching groceries orders
