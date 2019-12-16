@@ -28,4 +28,4 @@ The aim is to show the orders list on a dashboard in a comprehensive way so that
 * Resources Link(Problem statement, Dataset, etc.): https://drive.google.com/open?id=1GiQmIMEst9BYjzz9k9o2Gp3j-V_pM4nm
 
 ### Note
-* I intentionally converted attached .csv file to .json file to make data fetching process easier.
+* I intentionally converted attached `.csv` file to `.json` file to make the data fetching process easier.
