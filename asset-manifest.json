@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/order-management/static/css/main.0682aeed.chunk.css",
+    "main.js": "/order-management/static/js/main.bd650f76.chunk.js",
+    "main.js.map": "/order-management/static/js/main.bd650f76.chunk.js.map",
+    "runtime-main.js": "/order-management/static/js/runtime-main.2d8a9d05.js",
+    "runtime-main.js.map": "/order-management/static/js/runtime-main.2d8a9d05.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/order-management/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.fd46c701.chunk.js": "/order-management/static/js/2.fd46c701.chunk.js",
+    "static/js/2.fd46c701.chunk.js.map": "/order-management/static/js/2.fd46c701.chunk.js.map",
+    "index.html": "/order-management/index.html",
+    "precache-manifest.034cbf271553d83edd4e592f7bb9b47b.js": "/order-management/precache-manifest.034cbf271553d83edd4e592f7bb9b47b.js",
+    "service-worker.js": "/order-management/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/order-management/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.0682aeed.chunk.css.map": "/order-management/static/css/main.0682aeed.chunk.css.map",
+    "static/js/2.fd46c701.chunk.js.LICENSE": "/order-management/static/js/2.fd46c701.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d8a9d05.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.fd46c701.chunk.js",
+    "static/css/main.0682aeed.chunk.css",
+    "static/js/main.bd650f76.chunk.js"
+  ]
+}
